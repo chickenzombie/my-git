@@ -1,3 +1,1 @@
-git is awesome!
-new line
-experiment with amend
+This is 0.3.1 version of INFO.md
